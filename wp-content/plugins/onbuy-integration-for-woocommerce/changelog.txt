@@ -1,0 +1,36 @@
+*** OnBuy Integration for WooCommerce  ***
+
+2023-01-07 - version 2.0.6
+* Add - Improved Stability
+
+2022-10-21 - version 2.0.5
+* Add - Search filter by Sku
+* Add - Checks for OnBuy Exempt Category
+* Fix - Improved Category mapping when not mapped
+* Add - Improved Stability
+
+2022-08-08 - version 2.0.1
+* Add - Improved Stability
+
+2022-07-13 - version 2.0.0
+* Add - Crons timeline feature
+* Add - Improved Stability and UI
+* Add - Add Global attribute in technical details
+* Add - Refund order feature
+* Add - Sale price feature with end and start date.
+* Add - Boost percentage feature
+* Add - Frequency option for Buybox feature
+* Change - Category Mapping section
+* Add - Profiling section
+* Fix - Bulk delete functionality in the account and queue table
+* Fix - Update woo order status
+* Fix - Category disappeared issue
+
+2022-03-23 - version 1.0.2
+* Fix - Listing create
+
+2021-10-06 - version 1.0.1
+* Add - Improved Stability
+
+2021-08-30 - version 1.0.0
+* Inital release
